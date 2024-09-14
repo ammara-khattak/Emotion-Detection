@@ -1,0 +1,4 @@
+.st-expander > div:first-child:hover {
+    background-color: #3cc7f5 !important;  /* Change this to your desired hover color */
+    cursor: pointer;
+}
